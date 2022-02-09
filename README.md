@@ -4,7 +4,7 @@
 - Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler);
 - Conhecimento em Html, Css, Javascript, React-Native, SQL.
 <br/>
-- 💻 Design Gráfico Grupo PLA II Semestre 2021.
+<li>💻 Design Gráfico Grupo PLA II Semestre 2021.</li>
 <br/>
 - Noções de UX/UI Design, Edição de vídeo, Edição de Imagem, básico de animações.
 <br/>

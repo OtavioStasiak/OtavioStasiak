@@ -5,6 +5,7 @@
 - Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler);
 - Conhecimento em Html, Css, Javascript, React-Native, SQL.
  <br/>
+  <br/>
 <div>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
 &nbsp;  
@@ -16,6 +17,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height="35px"/>
  &nbsp;
   </div>
+   <br/>
 
 - 💻 Designer Gráfico
 <div>

@@ -2,7 +2,6 @@
 
 - 🔭 atualmente Desenvolvedor Mobile do Grupo PLA!
 - Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler);
-<br/>
 - Conhecimento em Html, Css, Javascript, React-Native, SQL.
 <br/>
 - 💻 Design Gráfico Grupo PLA II Semestre 2021.

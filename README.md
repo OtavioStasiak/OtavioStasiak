@@ -1,7 +1,7 @@
 ### Olá, meu nome é Otávio! 👋
 
 <li> 🔭 atualmente Desenvolvedor Mobile do Grupo PLA!</li>
-- Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler);
+- Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler).
 <br/>
 - Conhecimento em Html, Css, Javascript, React-Native, SQL.
 <br/>

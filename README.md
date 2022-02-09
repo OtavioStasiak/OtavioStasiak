@@ -6,7 +6,7 @@
 <br/>
 - 💻 Design Gráfico Grupo PLA II Semestre 2021.
 <br/>
-- Noções de UX/UI Design, Edição de vídeo, Edição de Imagem, básico de animações.
+-Noções de UX/UI Design, Edição de vídeo, Edição de Imagem, básico de animações.
 <br/>
 - Conhecimento em Photoshop, Premiere, After Effects, Illustrator, Figma.
 <br/>

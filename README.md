@@ -30,6 +30,7 @@
   &nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" height="35px"/>
   &nbsp;
+ <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=pt-br" height="35px"/>
   </div>
    <br/>
 

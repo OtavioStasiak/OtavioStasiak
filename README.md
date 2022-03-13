@@ -36,6 +36,7 @@
    <br/>
    <br/>
    <br/>
+   
    ![OtavioStasiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&theme=codeSTACKr)
 
 

@@ -1,6 +1,6 @@
 ### Olá, meu nome é Otávio! 👋
 
-[![Stasiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/otaviostasiak/github-readme-stats)
+[![Stasiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviostasiak)](https://github.com/otaviostasiak/github-readme-stats)
 
 <li> 🔭 atualmente Desenvolvedor Mobile do Grupo PLA!</li>
 - Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler).

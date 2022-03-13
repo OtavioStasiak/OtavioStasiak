@@ -36,10 +36,8 @@
   <br/>
   <br/>
   <br/>
-  <div>
    ![OtavioStasiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&theme=codeSTACKr)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviostasiak)](https://github.com/otaviostasiak/github-readme-stats)
-  </div>
 
 
 

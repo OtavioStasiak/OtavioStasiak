@@ -31,12 +31,14 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" height="35px"/>
   &nbsp;
  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="35px"/>
+ <br/>
+    ![OtavioStasiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&theme=codeSTACKr)
+
   </div>
   <br/>
   <br/>
   <br/>
   <br/>
-   ![OtavioStasiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&theme=codeSTACKr)
 
 
 

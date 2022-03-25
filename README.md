@@ -32,8 +32,7 @@
   &nbsp;
  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="35px"/>
  <br/>
-    ![OtavioStasiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&theme=codeSTACKr)
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12143531014&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviostasiak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   <br/>
   <br/>

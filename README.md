@@ -12,6 +12,8 @@
 - Conhecimento em Photoshop, Premiere, After Effects, Illustrator, Figma.
 <br/>
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviostasiak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
+
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="35px"/>
 &nbsp;  
@@ -32,9 +34,7 @@
   &nbsp;
  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="35px"/>
  <br/>
-<a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviostasiak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
- </a>
+
  </div>
   <br/>
   <br/>

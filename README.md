@@ -1,5 +1,4 @@
 ### Olá, meu nome é Otávio! 👋
-![OavioStasiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&theme=radical)
 
 <li> 🔭 atualmente Desenvolvedor Mobile do Grupo PLA!</li>
 - Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler).
@@ -38,8 +37,8 @@
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a>
+  <img align="center" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=otaviostasiak&layout=compact" />
 </a>
 
 

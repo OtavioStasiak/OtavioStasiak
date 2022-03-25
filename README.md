@@ -33,7 +33,7 @@
  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="35px"/>
  <br/>
     ![OtavioStasiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&theme=codeSTACKr)
-
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12143531014&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
   </div>
   <br/>
   <br/>

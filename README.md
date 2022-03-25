@@ -1,4 +1,6 @@
 ### Olá, meu nome é Otávio! 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&theme=radical)
+
 <li> 🔭 atualmente Desenvolvedor Mobile do Grupo PLA!</li>
 - Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler).
 <br/>
@@ -32,7 +34,6 @@
  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="35px"/>
  <br/>
  </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&theme=radical)
 
 
 

@@ -15,6 +15,14 @@
   <br/>
   <br/>
 </div>
+
+ <a href="https://github.com/otaviostasiak">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&layout=compact&theme=radical" />
+</a>
+ 
+ <a href="https://github.com/otaviostasiak">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviostasiak&layout=compact&theme=radical" />
+</a>
  
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="35px"/>
@@ -40,13 +48,6 @@
 <br/>
 <br/>
  
- <a href="https://github.com/otaviostasiak">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&layout=compact&theme=radical" />
-</a>
- 
- <a href="https://github.com/otaviostasiak">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviostasiak&layout=compact&theme=radical" />
-</a>
  
 <br/>
 <br/>

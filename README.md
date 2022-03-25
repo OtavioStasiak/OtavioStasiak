@@ -1,18 +1,19 @@
 <div align="center">
  <h1>Olá, meu nome é Otávio! 👋</h1>
-
-<li> 🔭 atualmente Desenvolvedor Mobile do Grupo PLA!</li>
-- Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler).
-<br/>
-- Conhecimento em Html, Css, Javascript, React-Native, SQL.
-<br/>
-<br/>
-<li>💻 Design Gráfico Grupo PLA II Semestre 2021.</li>
-- Noções de UX/UI Design, Edição de vídeo, Edição de Imagem, básico de animações.
-<br/>
-- Conhecimento em Photoshop, Premiere, After Effects, Illustrator, Figma.
-<br/>
-<br/>
+<div>
+  <li> 🔭 atualmente Desenvolvedor Mobile do Grupo PLA!</li>
+  - Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler).
+  <br/>
+  - Conhecimento em Html, Css, Javascript, React-Native, SQL.
+  <br/>
+  <br/>
+  <li>💻 Design Gráfico Grupo PLA II Semestre 2021.</li>
+  - Noções de UX/UI Design, Edição de vídeo, Edição de Imagem, básico de animações.
+  <br/>
+  - Conhecimento em Photoshop, Premiere, After Effects, Illustrator, Figma.
+  <br/>
+  <br/>
+</div>
  
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="35px"/>

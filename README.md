@@ -13,6 +13,7 @@
 - Conhecimento em Photoshop, Premiere, After Effects, Illustrator, Figma.
 <br/>
 <br/>
+ 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="35px"/>
   &nbsp;  
@@ -32,9 +33,10 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" height="35px"/>
   &nbsp;
  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="35px"/>
- </div>
- <br/>
- <br/>
+</div>
+ 
+<br/>
+<br/>
  
  <a href="https://github.com/otaviostasiak">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&layout=compact&theme=radical" />

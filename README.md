@@ -46,13 +46,15 @@
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviostasiak&layout=compact&theme=radical" />
 </a>
  
+<br/>
+<br/>
+ 
 <div align="center">
  
   <a href="https://www.linkedin.com/in/ot%C3%A1vio-henrique-stasiak-425751228/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
-<br/>
-<br/>
+
   <a href="mailto:otaviostasiakdev@outlook.com">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>

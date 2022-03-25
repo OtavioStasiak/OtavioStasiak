@@ -33,7 +33,8 @@
  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="35px"/>
  <br/>
  </div>
- 
+ <br/>
+ <br/>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&layout=compact&theme=radical" />
 </a>

@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Olá, meu nome é Otávio! 👋</h1>
-<div>
+<div align="start">
   <li> 🔭 atualmente Desenvolvedor Mobile do Grupo PLA!</li>
   - Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler).
   <br/>

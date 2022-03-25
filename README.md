@@ -3,18 +3,19 @@
 </div>
 <div align="start">
  🔭 atualmente Desenvolvedor Mobile do Grupo PLA!
- <br/>
+   <br/>
   - Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler).
-  <br/>
+   <br/>
   - Conhecimento em Html, Css, Javascript, React-Native, SQL.
-  <br/>
-  <br/>
+   <br/>
+   <br/>
 💻 Design Gráfico Grupo PLA II Semestre 2021.
+   <br/>
   - Noções de UX/UI Design, Edição de vídeo, Edição de Imagem, básico de animações.
-  <br/>
+   <br/>
   - Conhecimento em Photoshop, Premiere, After Effects, Illustrator, Figma.
-  <br/>
-  <br/>
+   <br/>
+   <br/>
 </div>
 
 <div align="center">

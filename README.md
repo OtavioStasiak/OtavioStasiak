@@ -8,6 +8,7 @@
    <br/>
   - Conhecimento em Html, Css, Javascript, React-Native, SQL.
    <br/>
+ - Conhecimento em Firebase.
    <br/>
 💻 Design Gráfico Grupo PLA II Semestre 2021.
    <br/>

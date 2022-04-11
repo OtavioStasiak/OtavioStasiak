@@ -10,6 +10,7 @@
    <br/>
  - Conhecimento em Firebase.
    <br/>
+   <br/>
 💻 Design Gráfico Grupo PLA II Semestre 2021.
    <br/>
   - Noções de UX/UI Design, Edição de vídeo, Edição de Imagem, básico de animações.

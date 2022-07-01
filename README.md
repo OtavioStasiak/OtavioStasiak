@@ -4,7 +4,11 @@
 <div align="start">
  🔭 <strong>Atualmente Desenvolvedor Mobile do Grupo PLA!</strong>
    <br/>
-  - Especializado em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler).
+  - Conhecimento em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler, Reanimated).
+   <br/>
+   - Conhecimento em React.JS.
+   <br/>
+   - Conhecimento em Next.JS.
    <br/>
   - Conhecimento em Html, Css, Javascript, React-Native, SQL.
    <br/>
@@ -29,6 +33,10 @@
 <div align="center">
  <a href="https://github.com/otaviostasiak">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&layout=compact&theme=radical" />
+</a>
+
+<a href="https://github.com/otaviostasiak">
+ <img align="center" height="150em" src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_1cvjfamjpre71.png" />
 </a>
  
  <a href="https://github.com/otaviostasiak">

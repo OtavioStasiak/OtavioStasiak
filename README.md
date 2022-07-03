@@ -22,7 +22,8 @@
   - Conhecimento em Photoshop, Premiere, After Effects, Illustrator, Figma.
    <br/>
    <br/>
- 🎓 <strong>Atualmente Aluno da Rocketseat.</strong>
+ 🎓 <strong>Formação</strong>
+ - Cursando Análise e Desenvolvimento de Sistemas.
    <br/>
   - Cursando a Trilha de ReactJS.
    <br/>

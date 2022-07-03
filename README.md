@@ -23,6 +23,7 @@
    <br/>
    <br/>
  🎓 <strong>Formação</strong>
+ <br/>
  - Cursando Análise e Desenvolvimento de Sistemas.
    <br/>
   - Cursando a Trilha de ReactJS.

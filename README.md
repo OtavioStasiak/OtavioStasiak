@@ -10,8 +10,6 @@
    <br/>
    - Conhecimento em Next.JS.
    <br/>
-  - Conhecimento em Html, Css, Javascript, React-Native, SQL.
-   <br/>
  - Conhecimento em Firebase.
    <br/>
    <br/>

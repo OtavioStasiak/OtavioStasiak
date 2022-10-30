@@ -2,7 +2,7 @@
  <h1>Olá, meu nome é Otávio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
 </div>
 <div align="start">
- 🔭 <strong>Atualmente Desenvolvedor Mobile do Grupo PLA!</strong>
+ 🔭 <strong>Atualmente Desenvolvedor Mobile na Corebiz!</strong>
    <br/>
   - Conhecimento em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler, Reanimated).
    <br/>
@@ -11,6 +11,8 @@
    - Conhecimento em Next.JS.
    <br/>
  - Conhecimento em Firebase.
+   <br/>
+ - Conhecimento em Node.JS.
    <br/>
    <br/>
  💻 <strong>Design Gráfico Grupo PLA II Semestre 2021.</strong>

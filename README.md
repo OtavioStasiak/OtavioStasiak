@@ -26,8 +26,6 @@
  <br/>
  - Cursando Análise e Desenvolvimento de Sistemas.
    <br/>
-  - Cursando a Trilha de ReactJS | Rocketseat.
-   <br/>
    <br/>
 </div>
  <br/>

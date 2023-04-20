@@ -1,8 +1,8 @@
 <div align="center">
- <h1>Olá, meu nome é Otávio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
+ <h1>Hi, my name is Otávio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
 </div>
 <div align="start">
- 🔭 <strong>Atualmente Desenvolvedor Mobile na Corebiz!</strong>
+ 🔭 <strong>Actually I have worked as a mobile developer at Corebiz Global!</strong>
    <br/>
   - Conhecimento em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler, Reanimated).
    <br/>

@@ -4,18 +4,15 @@
 <div align="start">
  🔭 <strong>Actually I have worked as a mobile developer at Corebiz Global!</strong>
    <br/>
-  - Conhecimento em React-Native (Styled Components, API Rest, React Hooks, Gesture Handler, Reanimated).
+  - React-Native specialist (Styled Components, tailwind CSS, API Rest, React Hooks, Jest, Maestro, Firebasem Gesture Handler, Reanimated).
    <br/>
-   - Conhecimento em React.JS.
+   - Knowledge on React.JS.
    <br/>
-   - Conhecimento em Next.JS.
+   - Knowledge on Next.JS.
    <br/>
- - Conhecimento em Firebase.
+ - Knowledge on Node.JS (express, prisma sharp, aws sdk).
    <br/>
- - Conhecimento em Node.JS.
-   <br/>
-   <br/>
- 💻 <strong>Design Gráfico Grupo PLA II Semestre 2021.</strong>
+ 💻 <strong>Design Gráfico Grupo PLA II.</strong>
    <br/>
   - Noções de UX/UI Design, Edição de vídeo, Edição de Imagem, básico de animações.
    <br/>

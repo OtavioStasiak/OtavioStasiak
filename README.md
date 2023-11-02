@@ -13,7 +13,9 @@
    <br/>
  - Knowledge on Node.JS (express, prisma sharp, aws sdk).
    <br/>
+    <br/>
    <strong>I worked on companies and projects like:</strong>
+    <br/>
    <br/>
    - Grupo PLA;
     <br/>

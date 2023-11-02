@@ -12,16 +12,20 @@
    <br/>
  - Knowledge on Node.JS (express, prisma sharp, aws sdk).
    <br/>
- 💻 <strong>Design Gráfico Grupo PLA II.</strong>
+   <strong>I worked on companies and projects like:</strong>
    <br/>
-  - Noções de UX/UI Design, Edição de vídeo, Edição de Imagem, básico de animações.
+   - Grupo PLA;
+   - Caminhões e Carretas;
+   - Tratores e Colheitadeiras;
+   - Connectmix;
+   - Shoulder;
+   - Farmácia Preço Popular;
+   - Babadotop;
+   - WealthMoney;
    <br/>
-  - Conhecimento em Photoshop, Premiere, After Effects, Illustrator, Figma.
+ 🎓 <strong>Graduation</strong>
    <br/>
-   <br/>
- 🎓 <strong>Formação</strong>
- <br/>
- - Cursando Análise e Desenvolvimento de Sistemas.
+ - Coursing Analysis and System development.
    <br/>
    <br/>
 </div>

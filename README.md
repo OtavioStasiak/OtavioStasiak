@@ -4,6 +4,7 @@
 <div align="start">
  🔭 <strong>Actually I have worked as a mobile developer at Corebiz Global!</strong>
    <br/>
+   <br/>
   - React-Native specialist (Styled Components, tailwind CSS, API Rest, React Hooks, Jest, Maestro, Firebasem Gesture Handler, Reanimated).
    <br/>
    - Knowledge on React.JS.
@@ -15,12 +16,19 @@
    <strong>I worked on companies and projects like:</strong>
    <br/>
    - Grupo PLA;
+    <br/>
    - Caminhões e Carretas;
+    <br/>
    - Tratores e Colheitadeiras;
+    <br/>
    - Connectmix;
+    <br/>
    - Shoulder;
+    <br/>
    - Farmácia Preço Popular;
+    <br/>
    - Babadotop;
+    <br/>
    - WealthMoney;
    <br/>
  🎓 <strong>Graduation</strong>

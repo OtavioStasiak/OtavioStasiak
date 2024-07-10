@@ -2,16 +2,16 @@
  <h1>Hi, my name is Otávio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
 </div>
 <div align="start">
- 🔭 <strong>Actually I have worked as a mobile developer at Corebiz Global!</strong>
+ 🔭 <strong>Actually I have worked as a Senior Software Engineer at Corebiz Global!</strong>
    <br/>
    <br/>
-  - React-Native specialist (Styled Components, tailwind CSS, API Rest, React Hooks, Jest, Maestro, Firebasem Gesture Handler, Reanimated).
+  - React Native specialist.
    <br/>
-   - Knowledge on React.JS.
+   - Experience using React.JS.
    <br/>
-   - Knowledge on Next.JS.
+   - Experience using Next.JS.
    <br/>
- - Knowledge on Node.JS (express, prisma sharp, aws sdk).
+ - Experience using Node.JS (express, prisma, sharp, aws sdk, firebase admin, puppeteer).
    <br/>
     <br/>
    <strong>I worked on companies and projects like:</strong>
@@ -33,11 +33,12 @@
     <br/>
    - WealthMoney;
    <br/>
+   - Hmart;
    <br/>
     <br/>
  🎓 <strong>Graduation</strong>
    <br/>
- - Coursing Analysis and System development.
+ - Associate Degree Computer Science - Estacio, Brazil.
    <br/>
    <br/>
 </div>

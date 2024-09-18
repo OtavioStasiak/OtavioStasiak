@@ -2,7 +2,7 @@
  <h1>Hi, my name is Otávio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
 </div>
 <div align="start">
- 🔭 <strong>Actually I have worked as a Senior Software Engineer at Corebiz Global!</strong>
+ 🔭 <strong>Actually I have worked as a Mobile Engineer at Rocket.chat!</strong>
    <br/>
    <br/>
   - React Native specialist.
@@ -38,7 +38,7 @@
     <br/>
  🎓 <strong>Graduation</strong>
    <br/>
- - Associate Degree Computer Science - Estacio, Brazil.
+ - Associate Degree Analysis and system development - Estacio, Brazil.
    <br/>
    <br/>
 </div>

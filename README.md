@@ -42,21 +42,6 @@
    <br/>
    <br/>
 </div>
- <br/>
- <br/>
-<div align="center">
- <a href="https://github.com/otaviostasiak">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=otaviostasiak&show_icons=true&layout=compact&theme=radical" />
-</a>
-
-
- 
- <a href="https://github.com/otaviostasiak">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviostasiak&layout=compact&theme=radical" />
-</a>
- <br/>
- <br/>
-</div>
  
 <br/>
 <br/>
